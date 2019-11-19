@@ -1,0 +1,143 @@
+/* customer/home.css */
+
+.navbar-nav {
+    margin-right: 6rem;
+}
+
+.navbar {
+    min-height: 8vh;
+}
+
+.container-fluid {
+    background-color: white;
+    /* overflow-x: auto; */
+    /* margin-left: 200px; */
+}
+
+.sidebar {
+    min-height: 100vh;
+    padding-top: 5rem;
+    padding-left: 3rem;
+    font-size: 1.3rem;
+    position: fixed;
+    z-index: 1;
+    overflow-x: hidden;
+}
+
+.sidebar a:visited {
+    text-decoration: none;
+}
+
+.sidebar a:hover {
+    text-decoration: none;
+}
+
+.content {
+    margin-top: 1rem;
+    position: relative;
+    left: 16%;
+}
+
+
+/* customer/books.css */
+
+.dropbar {
+    margin-right: 7rem;
+}
+
+.search-bar {
+    margin-top: 2rem;
+}
+
+
+/* customer/profile.css */
+
+.profile-content {
+    /* background-color: #343A40; */
+    background-color: #CCE5FF;
+    height: 35rem;
+    margin-left: 2rem;
+    float: left;
+    /* opacity: 0.5; */
+    color: black;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.profile-content a:visited {
+    text-decoration: none;
+}
+
+.profile-content a:hover {
+    text-decoration: none;
+}
+
+.profile-pic {
+    width: 25rem;
+    padding-left: 2rem;
+}
+
+
+/* customer/books/add.css */
+
+.books-content {
+    /* background-color: #343A40; */
+    background-color: #CCE5FF;
+    height: 46rem;
+    margin-left: 2rem;
+    float: left;
+    /* opacity: 0.5; */
+    color: black;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+/* customer/changepass.css */
+
+.change-password {
+    /* background-color: #343A40; */
+    background-color: #CCE5FF;
+    height: 25rem;
+    margin-left: 2rem;
+    margin-top: 5rem;
+    float: left;
+    /* opacity: 0.5; */
+    color: black;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+/* customer/customers/add.css */
+
+.modify-customer {
+    /* background-color: #343A40; */
+    background-color: #CCE5FF;
+    height: 42rem;
+    margin-left: 2rem;
+    float: left;
+    /* opacity: 0.5; */
+    color: black;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.gender {
+    width: 20rem;
+    margin: auto;
+}
+
+
+/* customer/books/request.css */
+
+.request-books {
+    /* background-color: #343A40; */
+    background-color: #CCE5FF;
+    height: 40rem;
+    margin-left: 2rem;
+    float: left;
+    /* opacity: 0.5; */
+    color: black;
+    padding-top: 2rem;
+    text-align: center;
+    margin-top: 3rem;
+}
